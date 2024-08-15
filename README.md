@@ -13,7 +13,7 @@ Welcome to Turtle Lerninsel! This privacy policy explains how we collect, use, a
 Developer: Mario Schwarz
 Location: Germany
 Affiliation: UniTyLab, Heilbronn University
-Contact Information: [Your Email Address]
+Contact Information: mario.schwarz@hs-heilbronn.de
 This app is developed as part of my master thesis project. The app is primarily for educational and research purposes.
 
 2. What Information We Collect
