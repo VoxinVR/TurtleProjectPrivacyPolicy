@@ -1,55 +1,56 @@
-
 # TurtleProjectPrivacyPolicy
+
 This repository is hosted to make the Privacy Policy for the Turtle Project accessible to anyone.
 
 ____________________________________________________________________
 
-## Privacy Policy for Turtle Lerninsel
+## Introduction
+This Privacy Policy describes how we intend to collect, use, and handle information gathered through your use of our virtual reality (VR) application, available for free on the Meta Quest Store. Our application addresses sensitive topics including discrimination, bullying, and harmful social media content. Our primary objective is educational and research-oriented.
 
-Last Updated: 15.08.2024
+## Current Data Collection Status
 
-Welcome to Turtle Lerninsel! This privacy policy explains how we collect, use, and protect your information when you use our application. By using the app, you agree to the terms outlined in this policy.
+At this time, our application does not collect or store any user data, either automatically or via questionnaires.
 
-### Who We Are
+## Planned Future Data Collection
 
-Developer: Mario Schwarz
-Location: Germany
-Affiliation: UniTyLab, Heilbronn University
-Contact Information: mario.schwarz@hs-heilbronn.de
-This app is developed as part of my master thesis project. The app is primarily for educational and research purposes.
++ In the future, we plan to collect anonymous usage data, including:
 
-### What Information We Collect  
-We may collect the following types of information:
++ Time spent in the VR environment
 
-Usage Data: Information about how you interact with the app, such as the features you use and the time spent on various activities.
-Anonymized Data: Any data collected will be anonymized, meaning it cannot be traced back to you personally.
++ Dialogue options chosen by users
 
-### How We Use Your Information  
-The data collected from the app is used for the following purposes:  
++ Frequency of interactions with virtual students
 
-To improve the app's functionality and user experience.  
-To conduct research and studies on user interactions with the app, which will be a part of my master thesis.
-To generate insights that may be published in academic papers or presentations. All published research will use anonymized data.
+Additionally, we plan to gather optional questionnaire data through platforms like Google Forms. Aggregated feedback, such as "X amount of users answered the same way as you" may also be presented within the application.
 
-### Data Control and Access  
-The data collected through this app is controlled solely by me, Mario Schwarz.
-Although I am part-time employed at the UniTyLab, Heilbronn University, and other researchers may be involved in the future, currently, only I have access to the data.
-Any data sharing with other researchers will be conducted under strict confidentiality and with appropriate safeguards.
+## Purpose of Planned Data Collection
 
-### Data Security  
-We take data security seriously and implement appropriate technical measures to protect your data from unauthorized access, disclosure, alteration, or destruction.
+The intended purposes of future data collection include:
 
-### Data Retention  
-We will retain your anonymized data for as long as necessary to fulfill the purposes outlined in this privacy policy. After the completion of the research project and the finalization of my master thesis, the data may be archived securely for future academic reference or deleted.
++ Improving usability and user experience
 
-### Changes to This Privacy Policy  
-This privacy policy may be updated from time to time to reflect changes in the app or applicable legal requirements. Any changes will be updated in the privacy policy linked in the meta quest store page. Your continued use of the app signifies your acceptance of the updated policy.
++ Analyzing the learning effectiveness of the application
 
-### Contact Us  
-If you have any questions or concerns about this privacy policy, please contact me at:
++ Conducting scientific research related to VR educational methods
+
++ Future Consent and Notification
+
+Users will receive clear and explicit notification when data collection is activated in future updates. At that point, usage of the application will imply acknowledgment and consent for anonymous data collection.
+
+## Target Audience
+
+Our application is primarily designed for educators, students, and academic communities but does not specifically target minors.
+
+## Contact Information
+
+For questions or concerns regarding this Privacy Policy or our planned data collection practices, please contact:
 
 Mario Schwarz
-mario.schwarz@hs-heilbronn.de
-Max-Planck-Straße 39,
-74081 Heilbronn,
-Germany
+UniTyLab, Heilbronn University
+Max-Planck-Straße 39, 74081 Heilbronn, Germany
+
+## Changes to This Privacy Policy
+
+This policy may be updated as we progress towards implementing data collection features. Users will be notified of significant changes within the application or via provided contact information.
+
+**Effective Date/Last Update:** 09.07.2025
